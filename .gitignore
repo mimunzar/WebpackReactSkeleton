@@ -2,6 +2,7 @@ env/
 reports/
 node_modules/
 out/
+dist/
 
 *.swp
 *.swo
